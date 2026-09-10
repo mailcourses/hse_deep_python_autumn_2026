@@ -1,7 +1,5 @@
 from vk_api import fetch_vk_api
 
-print(__name__)
-
 
 class User:
     def __init__(self, name, age):
